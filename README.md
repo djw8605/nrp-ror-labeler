@@ -7,5 +7,5 @@ table of nodes and their ROR IDs.  It also adds a special attribute for the OSG 
 
 ## Attributes
 
-- `RORInstitutionID`: The ROR ID of the institution.
-- `OSGInstitutionID`: The OSG ID of the institution (derived from ROR value).
+- `nautilus.io/OSGInstitutionID`: The ROR ID of the institution.
+- `nautilus.io/OSGInstitutionID`: The OSG ID of the institution (derived from ROR value).
