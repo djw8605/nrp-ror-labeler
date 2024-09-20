@@ -1,5 +1,5 @@
 ﻿OSG Identifier,institution Name,ROR Value
-fiona-prg1.cesnet.cz,,
+fiona-prg1.cesnet.cz,Czech Education and Scientific Network,https://ror.org/050dkka69
 nrp-s1.acsu.buffalo.edu,"University at Buffalo, State University of New York",https://ror.org/01y64my43
 epic001.clemson.edu,Clemson University,https://ror.org/037s24f05
 k8s-3090-01.clemson.edu,Clemson University,https://ror.org/037s24f05
@@ -383,3 +383,4 @@ rci-tide-gpu-15.sdsu.edu,San Diego State University,https://ror.org/0264fdx65
 rci-tide-gpu-16.sdsu.edu,San Diego State University,https://ror.org/0264fdx66
 rci-tide-gpu-17.sdsu.edu,San Diego State University,https://ror.org/0264fdx67
 sphinx.sdstate.edu,South Dakota State University,https://ror.org/015jmes13
+ps-sdmz.southalabama.edu,University of South Alabama,https://ror.org/01s7b5y08

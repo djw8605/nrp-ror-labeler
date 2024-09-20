@@ -57,8 +57,10 @@ def main():
         body = {
             "metadata": {
                 "labels": {
-                    "OSGInstitutionID": convert_url_to_k8s_value(convert_ror_to_osg(node_institution[node.metadata.name])),
-                    "RORInstitutionID": convert_url_to_k8s_value(node_institution[node.metadata.name])
+                    "OSGInstitutionID": None,
+                    "RORInstitutionID": None,
+                    "nautilus.io/OSGInstitutionID": convert_url_to_k8s_value(convert_ror_to_osg(node_institution[node.metadata.name])),
+                    "nautilus.io/RORInstitutionID": convert_url_to_k8s_value(node_institution[node.metadata.name]),
                 }
             }
         }
