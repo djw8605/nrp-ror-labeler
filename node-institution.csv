@@ -251,6 +251,9 @@ ry-storage-01.sdsc.optiputer.net,"University of California, San Diego			",https:
 ry-storage-02.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
 ry-storage-03.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
 ry-storage-04.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
+jump.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
+k8s-gen4-02.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w49
+k8s-gen4-05.calit2.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w50
 igrok-chcg.pacificwave.net,,
 nautilus1.sox.net,,
 nautilus2.sox.net,,
@@ -338,6 +341,7 @@ hcc-chase-pki-c4012.unl.edu,University of Nebraska–Lincoln,https://ror.org/043
 hcc-gpn-argo-1.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer457
 hcc-nrdstor-osdf.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer458
 hcc-nrp-shor-c5226.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer459
+hcc-nrp-shor-c5317.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer459
 igrok-sttl.pacificwave.net,,
 k8s-a100-01.suncorridor.org,,
 k8s-haosu-25.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
@@ -412,3 +416,13 @@ patternlab.calit2.optiputer.net,"University of California, San Diego			",https:/
 sl-um-es2.slateci.io,University of Michigan–Ann Arbor,https://ror.org/00jmfr291
 sphinx.sdstate.edu,South Dakota State University,https://ror.org/015jmes13
 ucsd-nrp.cern.ch,European Organization for Nuclear Research,https://ror.org/01ggx4157
+nautilus-it-cpu05.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
+nautilus-it-cpu06.fullerton.edu,Fullerton College,https://ror.org/057bq1s95
+nautilus-it-cpu07.fullerton.edu,Fullerton College,https://ror.org/057bq1s96
+nautilus-it-cpu08.fullerton.edu,Fullerton College,https://ror.org/057bq1s97
+nautilus-it-cpu09.fullerton.edu,Fullerton College,https://ror.org/057bq1s98
+nautilus-it-cpu10.fullerton.edu,Fullerton College,https://ror.org/057bq1s99
+nautilus-it-cpu11.fullerton.edu,Fullerton College,https://ror.org/057bq1s100
+nautilus-it-cpu12.fullerton.edu,Fullerton College,https://ror.org/057bq1s101
+nautilus-it-gpu05.fullerton.edu,Fullerton College,https://ror.org/057bq1s102
+nautilus-it-gpu06.fullerton.edu,Fullerton College,https://ror.org/057bq1s103
