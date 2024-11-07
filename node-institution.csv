@@ -252,8 +252,8 @@ ry-storage-02.sdsc.optiputer.net,"University of California, San Diego			",https:
 ry-storage-03.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
 ry-storage-04.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
 jump.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
-k8s-gen4-02.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w49
-k8s-gen4-05.calit2.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w50
+k8s-gen4-02.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
+k8s-gen4-05.calit2.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
 igrok-chcg.pacificwave.net,,
 nautilus1.sox.net,,
 nautilus2.sox.net,,
@@ -332,60 +332,60 @@ fiona01-ntt.ucsc.edu,"University of California, Santa Cruz",https://ror.org/03s6
 gpengine-uams.areon.net,University of Arkansas Medical Center,https://ror.org/005k4dn45
 gpengine-uark.areon.net,University of Arkansas at Fayetteville,https://ror.org/05jbt9m15
 gpn-fiona-mizzou-6.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z06
-gpn-fiona-mizzou-7.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z07
-gpn-fiona-mizzou-8.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z08
-gpn-fiona-mizzou-9.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z09
-gpn-fiona-mizzou-gh1.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z10
+gpn-fiona-mizzou-7.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z06
+gpn-fiona-mizzou-8.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z06
+gpn-fiona-mizzou-9.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z06
+gpn-fiona-mizzou-gh1.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z06
 gpu-02.csusb.edu,"California State University, San Bernardino",https://ror.org/02n651896
 hcc-chase-pki-c4012.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456
-hcc-gpn-argo-1.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer457
-hcc-nrdstor-osdf.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer458
-hcc-nrp-shor-c5226.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer459
-hcc-nrp-shor-c5317.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer459
+hcc-gpn-argo-1.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456
+hcc-nrdstor-osdf.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456
+hcc-nrp-shor-c5226.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456
+hcc-nrp-shor-c5317.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456
 igrok-sttl.pacificwave.net,,
 k8s-a100-01.suncorridor.org,,
 k8s-haosu-25.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
-k8s-haosu-26.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w49
-k8s-haosu-27.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w50
-k8s-haosu-28.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w51
-k8s-haosu-29.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w52
+k8s-haosu-26.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
+k8s-haosu-27.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
+k8s-haosu-28.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
+k8s-haosu-29.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
 k8s-storage-1.ucr.edu,"University of California, Riverside",https://ror.org/03nawhv43
 losa4-nrp-01--lax-agg10--100g--01.cenic.net,,
 nautilus-ext-gpu01.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
 ncar-osdf01.hpc.ucar.edu,University Corporation for Atmospheric Research,https://ror.org/04zhhyn23
-node-1-6.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w51
-node-2-5.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w52
-node-3-5.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w53
-node-3-6.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w54
+node-1-6.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
+node-2-5.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
+node-3-5.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
+node-3-6.sdsc.optiputer.net,"University of California, San Diego			",https://ror.org/0168r3w48
 oai-gnb-01.5g.nrp-nautilus.io,,
 osgprdk8s01.kennesaw.edu,Kennesaw State University,https://ror.org/00jeqjx33
 ps.aamu.edu,Alabama Agricultural and Mechanical University,https://ror.org/05hz8m414
 rci-tide-cpu-01.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
-rci-tide-cpu-02.sdsu.edu,San Diego State University,https://ror.org/0264fdx43
-rci-tide-cpu-03.sdsu.edu,San Diego State University,https://ror.org/0264fdx44
-rci-tide-cpu-04.sdsu.edu,San Diego State University,https://ror.org/0264fdx45
-rci-tide-cpu-05.sdsu.edu,San Diego State University,https://ror.org/0264fdx46
-rci-tide-cpu-06.sdsu.edu,San Diego State University,https://ror.org/0264fdx47
-rci-tide-dtn-01.sdsu.edu,San Diego State University,https://ror.org/0264fdx48
-rci-tide-dtn-02.sdsu.edu,San Diego State University,https://ror.org/0264fdx49
-rci-tide-dtn-03.sdsu.edu,San Diego State University,https://ror.org/0264fdx50
-rci-tide-gpu-01.sdsu.edu,San Diego State University,https://ror.org/0264fdx51
-rci-tide-gpu-02.sdsu.edu,San Diego State University,https://ror.org/0264fdx52
-rci-tide-gpu-03.sdsu.edu,San Diego State University,https://ror.org/0264fdx53
-rci-tide-gpu-04.sdsu.edu,San Diego State University,https://ror.org/0264fdx54
-rci-tide-gpu-05.sdsu.edu,San Diego State University,https://ror.org/0264fdx55
-rci-tide-gpu-06.sdsu.edu,San Diego State University,https://ror.org/0264fdx56
-rci-tide-gpu-07.sdsu.edu,San Diego State University,https://ror.org/0264fdx57
-rci-tide-gpu-08.sdsu.edu,San Diego State University,https://ror.org/0264fdx58
-rci-tide-gpu-09.sdsu.edu,San Diego State University,https://ror.org/0264fdx59
-rci-tide-gpu-10.sdsu.edu,San Diego State University,https://ror.org/0264fdx60
-rci-tide-gpu-11.sdsu.edu,San Diego State University,https://ror.org/0264fdx61
-rci-tide-gpu-12.sdsu.edu,San Diego State University,https://ror.org/0264fdx62
-rci-tide-gpu-13.sdsu.edu,San Diego State University,https://ror.org/0264fdx63
-rci-tide-gpu-14.sdsu.edu,San Diego State University,https://ror.org/0264fdx64
-rci-tide-gpu-15.sdsu.edu,San Diego State University,https://ror.org/0264fdx65
-rci-tide-gpu-16.sdsu.edu,San Diego State University,https://ror.org/0264fdx66
-rci-tide-gpu-17.sdsu.edu,San Diego State University,https://ror.org/0264fdx67
+rci-tide-cpu-02.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-cpu-03.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-cpu-04.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-cpu-05.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-cpu-06.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-dtn-01.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-dtn-02.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-dtn-03.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-01.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-02.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-03.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-04.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-05.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-06.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-07.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-08.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-09.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-10.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-11.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-12.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-13.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-14.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-15.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-16.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
+rci-tide-gpu-17.sdsu.edu,San Diego State University,https://ror.org/0264fdx42
 sphinx.sdstate.edu,South Dakota State University,https://ror.org/015jmes13
 ps-sdmz.southalabama.edu,University of South Alabama,https://ror.org/01s7b5y08
 cph-perfsonar.humboldt.edu,Humboldt State University,https://ror.org/02qt0xs84
@@ -418,12 +418,12 @@ sl-um-es2.slateci.io,University of Michigan–Ann Arbor,https://ror.org/00jmfr29
 sphinx.sdstate.edu,South Dakota State University,https://ror.org/015jmes13
 ucsd-nrp.cern.ch,European Organization for Nuclear Research,https://ror.org/01ggx4157
 nautilus-it-cpu05.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
-nautilus-it-cpu06.fullerton.edu,Fullerton College,https://ror.org/057bq1s95
-nautilus-it-cpu07.fullerton.edu,Fullerton College,https://ror.org/057bq1s96
-nautilus-it-cpu08.fullerton.edu,Fullerton College,https://ror.org/057bq1s97
-nautilus-it-cpu09.fullerton.edu,Fullerton College,https://ror.org/057bq1s98
-nautilus-it-cpu10.fullerton.edu,Fullerton College,https://ror.org/057bq1s99
-nautilus-it-cpu11.fullerton.edu,Fullerton College,https://ror.org/057bq1s100
-nautilus-it-cpu12.fullerton.edu,Fullerton College,https://ror.org/057bq1s101
-nautilus-it-gpu05.fullerton.edu,Fullerton College,https://ror.org/057bq1s102
-nautilus-it-gpu06.fullerton.edu,Fullerton College,https://ror.org/057bq1s103
+nautilus-it-cpu06.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
+nautilus-it-cpu07.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
+nautilus-it-cpu08.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
+nautilus-it-cpu09.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
+nautilus-it-cpu10.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
+nautilus-it-cpu11.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
+nautilus-it-cpu12.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
+nautilus-it-gpu05.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
+nautilus-it-gpu06.fullerton.edu,Fullerton College,https://ror.org/057bq1s94
