@@ -12,13 +12,6 @@ def add_args(parser):
     return parser.parse_args()
 
 
-def convert_ror_to_osg(ror):
-    # The ror is a URL, parse it
-    parsed = urlparse(ror)
-
-    return "https://osg-htc.org/iid" + parsed.path
-
-
 def convert_url_to_k8s_value(url):
     # The ror is a URL, parse it
     parsed = urlparse(url)
@@ -41,7 +34,7 @@ def main():
     with open(args.table, 'r', encoding='utf-8-sig') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            node_institution[row['OSG Identifier']] = row['ROR Value']
+            node_institution[row['OSG Identifier']] = row
             #print(row)
 
     # Loop through the list of nodes in node_list
@@ -59,8 +52,8 @@ def main():
                 "labels": {
                     "OSGInstitutionID": None,
                     "RORInstitutionID": None,
-                    "nautilus.io/OSGInstitutionID": convert_url_to_k8s_value(convert_ror_to_osg(node_institution[node.metadata.name])),
-                    "nautilus.io/RORInstitutionID": convert_url_to_k8s_value(node_institution[node.metadata.name]),
+                    "nautilus.io/OSGInstitutionID": convert_url_to_k8s_value(node_institution[node.metadata.name]['OSG Value']) if node_institution[node.metadata.name]['OSG Value'] else convert_url_to_k8s_value(node_institution[node.metadata.name]['ROR Value']),
+                    "nautilus.io/RORInstitutionID": convert_url_to_k8s_value(node_institution[node.metadata.name]['ROR Value']),
                 }
             }
         }
