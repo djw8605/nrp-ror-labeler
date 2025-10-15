@@ -131,6 +131,7 @@ hcc-nrp-shor-c6021.unl.edu,University of Nebraska–Lincoln,https://ror.org/043m
 hcc-nrp-shor-c6025.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
 hcc-nrp-shor-c6029.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
 hcc-prp-c1312.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
+hcc-nrp-shor-c1312.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
 hcc-prp-c5027.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
 hcc-prp-c5036.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
 hcc-prp-c5038.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
@@ -158,6 +159,8 @@ swosu-brandy.offn.onenet.net,Southwestern Oklahoma State University,https://ror.
 aarch64.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 nrp-ai-100-01.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 controller0.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
+controller0.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
+controller1.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 edex.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 jupyter.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 k8s-3090-01.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
@@ -356,7 +359,7 @@ k8s-haosu-28.sdsc.optiputer.net,"University of California, San Diego",https://ro
 k8s-haosu-29.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 k8s-storage-1.ucr.edu,"University of California, Riverside",https://ror.org/03nawhv43,https://osg-htc.org/iid/zy99b9jjoqpb
 losa4-nrp-01--lax-agg10--100g--01.cenic.net,,,
-nautilus-ext-gpu01.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-ext-gpu01.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
 ncar-osdf01.hpc.ucar.edu,University Corporation for Atmospheric Research,https://ror.org/04zhhyn23,https://osg-htc.org/iid/b8t0c7enpu1x
 node-1-6.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 node-2-5.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
@@ -407,15 +410,17 @@ info-perf-001.sdmz.amnh.org,American Museum of Natural History,https://ror.org/0
 k8s-gen4-03.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 k8s-gen5-01.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 k8s-gen5-02.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
-nautilus-it-cpu01.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu02.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu03.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu04.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-gpu01.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-gpu02.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-gpu03.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-gpu04.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-storage01.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu01.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu02.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu03.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu04.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-gpu01.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-gpu02.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-gpu03.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-gpu04.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-storage01.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-storage02.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-storage03.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
 ncar-osdf00.hpc.ucar.edu,University Corporation for Atmospheric Research,https://ror.org/04zhhyn23,https://osg-htc.org/iid/b8t0c7enpu1x
 nrp-igrok1.nysernet.org,NYSERnet,https://ror.org/00rpwqe82,https://osg-htc.org/iid/wd11mc61omie
 origin-g7r4704.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z06,https://osg-htc.org/iid/dohu2f6ba08u
@@ -423,16 +428,16 @@ patternlab.calit2.optiputer.net,"University of California, San Diego",https://ro
 sl-um-es2.slateci.io,University of Michigan–Ann Arbor,https://ror.org/00jmfr291,https://osg-htc.org/iid/4ocf9kvq30fn
 sphinx.sdstate.edu,South Dakota State University,https://ror.org/015jmes13,https://osg-htc.org/iid/oqz71b6b44za
 ucsd-nrp.cern.ch,European Organization for Nuclear Research,https://ror.org/01ggx4157,https://osg-htc.org/iid/8alpqdbfmj7m
-nautilus-it-cpu05.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu06.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu07.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu08.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu09.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu10.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu11.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-cpu12.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-gpu05.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
-nautilus-it-gpu06.fullerton.edu,Fullerton College,https://ror.org/057bq1s94,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu05.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu06.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu07.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu08.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu09.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu10.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu11.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-cpu12.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-gpu05.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
+nautilus-it-gpu06.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
 tu.gp-engine.greatplains.net,University of Tulsa,https://ror.org/04wn28048,https://osg-htc.org/iid/to441mldveew
 cph-dgx-node2.humboldt.edu,Humboldt State University,https://ror.org/02qt0xs84,https://osg-htc.org/iid/y2ao7exr7l2t
 cph-dgx-node7.humboldt.edu,Humboldt State University,https://ror.org/02qt0xs84,https://osg-htc.org/iid/y2ao7exr7l2t
@@ -447,6 +452,7 @@ gp-engine.usd.edu,University of South Dakota,https://ror.org/0043h8f16,https://o
 gpengine-uark.areon.net,University of Arkansas at Fayetteville,https://ror.org/05jbt9m15,https://osg-htc.org/iid/78b3lgmajszi
 igrok-gorex.uhnet.net,University of Hawaii System,https://ror.org/03tzaeb71,https://osg-htc.org/iid/dsdkrs83f44q
 k8s-chase-ci-05.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
+k8s-chase-ci-01.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 nrp-a6000-01.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
 pens.ps.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
 seat.ps.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
@@ -494,3 +500,50 @@ pas.reno.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.o
 pas.salt.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
 pas.tucs.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
 pas.tuls.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+gateway.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
+pas.hart2.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.holy.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.houh.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.indi.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.jack.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.jcsn.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.lasv.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.losa.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.losa2.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.loui.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.minn.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.miss.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.nash.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.newy32aoa.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.phil.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.phoe.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.pitt.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.rale.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.sacr.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.star.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.sunn.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.tole2.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.wash.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+ps-crispie-mgmt.montclair.edu,Montclair State University,https://ror.org/01nxc2t48,https://osg-htc.org/iid/suf1yy5u3y56
+sl-um-es3.slateci.io,University of Michigan–Ann Arbor,https://ror.org/00jmfr291,https://osg-htc.org/iid/4ocf9kvq30fn
+edge-perfsonar.crispie.njedge.net,,,
+dtn-crispie.njedge.net,,,
+brookdale-perfsonar.crispie.brookdale.edu,Brookdale Community College,https://ror.org/05mrhv083,https://osg-htc.org/iid/t9o140gv13fb
+chi-dgx-node01.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
+chi-dgx-node02.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
+chi-dgx-node03.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
+chi-dgx-node04.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
+dtn-main.ucr.edu,"University of California, Riverside",https://ror.org/03nawhv43,https://osg-htc.org/iid/zy99b9jjoqpb
+dtn-sp.testbeds.rnp.br,National Education and Research Network,https://ror.org/04hztxs45,
+nrp-00.rcac.purdue.edu,Purdue University West Lafayette,https://ror.org/02dqehb95,https://osg-htc.org/iid/y2m2tk3a8pp6
+nrp-01.laccd.edu,Los Angeles Community College District,https://ror.org/058aed112,https://osg-htc.org/iid/isgjznc0xoa8
+nrp-01.rcac.purdue.edu,Purdue University West Lafayette,https://ror.org/02dqehb95,https://osg-htc.org/iid/y2m2tk3a8pp6
+nrp-02.rcac.purdue.edu,Purdue University West Lafayette,https://ror.org/02dqehb95,https://osg-htc.org/iid/y2m2tk3a8pp6
+nrp-03.rcac.purdue.edu,Purdue University West Lafayette,https://ror.org/02dqehb95,https://osg-htc.org/iid/y2m2tk3a8pp6
+pas.bois.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.pens.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+pas.seat.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+ramapo-perfsonar.crispie.ramapo.edu,Ramapo College,https://ror.org/03s2x9d90,https://osg-htc.org/iid/gy672vj6mhor
+ren-gp-argo-01.madren.org,Dakota State University,https://ror.org/016yv6y68,https://osg-htc.org/iid/e4x7cz0h4and
+rider-perfsonar.crispie.rider.edu,Rider University,https://ror.org/01dgn5344,https://osg-htc.org/iid/0jnmlco7p6gp
+starlightdtn101.scidmz.northwestern.edu,Northwestern University,https://ror.org/000e0be47,https://osg-htc.org/iid/5vvknn2bzgvt
