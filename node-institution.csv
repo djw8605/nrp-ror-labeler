@@ -260,7 +260,6 @@ ry-storage-03.sdsc.optiputer.net,"University of California, San Diego",https://r
 ry-storage-04.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 jump.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 k8s-gen4-02.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
-k8s-gen4-05.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 igrok-chcg.pacificwave.net,,,
 nautilus1.sox.net,,,
 nautilus2.sox.net,,,
@@ -349,7 +348,6 @@ hcc-gpn-argo-1.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer45
 hcc-nrdstor-osdf.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
 hcc-nrp-shor-c5226.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
 hcc-nrp-shor-c5317.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
-hcc-gpn-argo-1.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
 igrok-sttl.pacificwave.net,,,
 k8s-a100-01.suncorridor.org,,,
 k8s-haosu-25.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
@@ -399,8 +397,6 @@ sdsu.gp-argo.greatplains.net,South Dakota State University,https://ror.org/015jm
 ps-sdmz.southalabama.edu,University of South Alabama,https://ror.org/01s7b5y08,https://osg-htc.org/iid/i399mm88g9eb
 cph-perfsonar.humboldt.edu,Humboldt State University,https://ror.org/02qt0xs84,https://osg-htc.org/iid/y2ao7exr7l2t
 discover-nrp-01.sdccd.edu,San Diego Community College District,https://ror.org/00py6z575,
-dtn-01.nrp.mghpcc.org,Massachusetts Green High Performance Computing Center,https://ror.org/05par7p11,https://osg-htc.org/iid/akhgffx9bnad
-gpengine-uams.areon.net,University of Arkansas Medical Center,https://ror.org/005k4dn45,https://osg-htc.org/iid/2o8337n8jpae
 gpu00.nrp.hpc.udel.edu,University of Delaware,https://ror.org/01sbq1a82,https://osg-htc.org/iid/j2iu11x3iayo
 hcc-nrp-shor-c5834.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
 hcc-nrp-shor-c5934.unl.edu,University of Nebraska–Lincoln,https://ror.org/043mer456,https://osg-htc.org/iid/q9k1b8dfrw25
@@ -426,7 +422,6 @@ nrp-igrok1.nysernet.org,NYSERnet,https://ror.org/00rpwqe82,https://osg-htc.org/i
 origin-g7r4704.rnet.missouri.edu,University of Missouri,https://ror.org/02ymw8z06,https://osg-htc.org/iid/dohu2f6ba08u
 patternlab.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 sl-um-es2.slateci.io,University of Michigan–Ann Arbor,https://ror.org/00jmfr291,https://osg-htc.org/iid/4ocf9kvq30fn
-sphinx.sdstate.edu,South Dakota State University,https://ror.org/015jmes13,https://osg-htc.org/iid/oqz71b6b44za
 ucsd-nrp.cern.ch,European Organization for Nuclear Research,https://ror.org/01ggx4157,https://osg-htc.org/iid/8alpqdbfmj7m
 nautilus-it-cpu05.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
 nautilus-it-cpu06.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
@@ -449,7 +444,6 @@ netw-fiona-02.stanford.edu,Stanford University,https://ror.org/00f54p054,https:/
 netw-fiona-03.stanford.edu,Stanford University,https://ror.org/00f54p054,https://osg-htc.org/iid/keucrg5vtwtm
 bois.ps.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
 gp-engine.usd.edu,University of South Dakota,https://ror.org/0043h8f16,https://osg-htc.org/iid/it45nx81xgfl
-gpengine-uark.areon.net,University of Arkansas at Fayetteville,https://ror.org/05jbt9m15,https://osg-htc.org/iid/78b3lgmajszi
 igrok-gorex.uhnet.net,University of Hawaii System,https://ror.org/03tzaeb71,https://osg-htc.org/iid/dsdkrs83f44q
 k8s-chase-ci-05.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 k8s-chase-ci-01.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
@@ -457,21 +451,16 @@ nrp-a6000-01.csuchico.edu,"California State University, Chico",https://ror.org/0
 pens.ps.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
 seat.ps.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
 dtn-pas.kans.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
-gpn-cisco1-nautilus.greatplains.net,Great Plains Network,https://ror.org/02g2frf98,https://osg-htc.org/iid/ssmtibyuojo6
 k8s-stratix-10-01.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 nrp-01.csumb.edu,"California State University, Monterey Bay",https://ror.org/00mjdtw98,https://osg-htc.org/iid/6yz8qsq14vk9
 nrp-sense01.rnd.net2.mghpcc.org,Massachusetts Green High Performance Computing Center,https://ror.org/05par7p11,https://osg-htc.org/iid/akhgffx9bnad
 cau-ps.cau.edu,Clark Atlanta University,https://ror.org/0397tsa92,https://osg-htc.org/iid/6yxp8d0lr4h3
 morehouse-ps.morehouse.edu,Morehouse College,https://ror.org/02y9g2b52,https://osg-htc.org/iid/7917nk7gtmyh
 msm-ps.sox.net,,,
-nrp-ai-100-01.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 nrp-ai-100-02.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
-nrp-c15.nysernet.org,NYSERnet,https://ror.org/00rpwqe82,https://osg-htc.org/iid/wd11mc61omie
-dtn.aamu.edu,Alabama Agricultural and Mechanical University,https://ror.org/05hz8m414,https://osg-htc.org/iid/q1uudkt2rgr9
 gp-argo.usd.edu,University of South Dakota,https://ror.org/0043h8f16,https://osg-htc.org/iid/it45nx81xgfl
 k8s-a6000-01.csus.edu,"California State University, Sacramento",https://ror.org/03e26wv14,https://osg-htc.org/iid/c7yyhz58ujrt
 oru.gp-argo.greatplains.net,Oral Roberts University,https://ror.org/058hnhf91,https://osg-htc.org/iid/oxp7nz0hpwhr
-ps.aamu.edu,Alabama Agricultural and Mechanical University,https://ror.org/05hz8m414,https://osg-htc.org/iid/q1uudkt2rgr9
 rci-nautilus01.msu.montana.edu,Montana State University,https://ror.org/02w0trx84,https://osg-htc.org/iid/0budavib8vhh
 osdf1.amst.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
 osdf1.chic.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
@@ -479,7 +468,6 @@ osdf1.newy32aoa.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://os
 sdsmt.gp-argo.greatplains.net,South Dakota School of Mines and Technology,https://ror.org/00ch7yk27,https://osg-htc.org/iid/k3rbyge3uinw
 spelman-ps.sox.net,Spelman College,https://ror.org/02fvaj957,https://osg-htc.org/iid/tls5zf8zntze
 tuskegee-ps.sox.net,Tuskegee University,https://ror.org/0137n4m74,https://osg-htc.org/iid/7oom65ducfpx
-cph-dgx-node1.humboldt.edu,Humboldt State University,https://ror.org/02qt0xs84,https://osg-htc.org/iid/y2ao7exr7l2t
 cph-dgx-node5.humboldt.edu,Humboldt State University,https://ror.org/02qt0xs84,https://osg-htc.org/iid/y2ao7exr7l2t
 cph-dgx-node6.humboldt.edu,Humboldt State University,https://ror.org/02qt0xs84,https://osg-htc.org/iid/y2ao7exr7l2t
 gp-engine.hpc.okstate.edu,Oklahoma State University,https://ror.org/01g9vbr38,https://osg-htc.org/iid/ogvkim1urhzk
@@ -533,7 +521,6 @@ chi-dgx-node01.csuchico.edu,"California State University, Chico",https://ror.org
 chi-dgx-node02.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
 chi-dgx-node03.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
 chi-dgx-node04.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
-dtn-main.ucr.edu,"University of California, Riverside",https://ror.org/03nawhv43,https://osg-htc.org/iid/zy99b9jjoqpb
 dtn-sp.testbeds.rnp.br,National Education and Research Network,https://ror.org/04hztxs45,
 nrp-00.rcac.purdue.edu,Purdue University West Lafayette,https://ror.org/02dqehb95,https://osg-htc.org/iid/y2m2tk3a8pp6
 nrp-01.laccd.edu,Los Angeles Community College District,https://ror.org/058aed112,https://osg-htc.org/iid/isgjznc0xoa8
@@ -547,3 +534,13 @@ ramapo-perfsonar.crispie.ramapo.edu,Ramapo College,https://ror.org/03s2x9d90,htt
 ren-gp-argo-01.madren.org,Dakota State University,https://ror.org/016yv6y68,https://osg-htc.org/iid/e4x7cz0h4and
 rider-perfsonar.crispie.rider.edu,Rider University,https://ror.org/01dgn5344,https://osg-htc.org/iid/0jnmlco7p6gp
 starlightdtn101.scidmz.northwestern.edu,Northwestern University,https://ror.org/000e0be47,https://osg-htc.org/iid/5vvknn2bzgvt
+csn-nrp-node1.csun.edu,"California State University, Northridge",https://ror.org/005f5hv41,https://osg-htc.org/iid/vfjpi4twqspj
+nrp-sense02.rnd.net2.mghpcc.org,Massachusetts Green High Performance Computing Center,https://ror.org/05par7p11,https://osg-htc.org/iid/akhgffx9bnad
+nrp-sense03.rnd.net2.mghpcc.org,Massachusetts Green High Performance Computing Center,https://ror.org/05par7p11,https://osg-htc.org/iid/akhgffx9bnad
+prp-gpu-2.t2.ucsd.edu,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
+prp-gpu-3.t2.ucsd.edu,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
+starlightdtn108.scidmz.northwestern.edu,Northwestern University,https://ror.org/000e0be47,https://osg-htc.org/iid/5vvknn2bzgvt
+stratus1.nrp-espm.berkeley.edu,"University of California, Berkeley",https://ror.org/01an7q238,https://osg-htc.org/iid/7rhak0ujmsoe
+uspnrp01.hpc.usp.br,National Education and Research Network,https://ror.org/04hztxs45,
+uspnrp02.hpc.usp.br,National Education and Research Network,https://ror.org/04hztxs45,
+uspnrp03.hpc.usp.br,National Education and Research Network,https://ror.org/04hztxs45,

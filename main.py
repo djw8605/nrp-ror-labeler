@@ -14,9 +14,14 @@ def add_args(parser):
 
 def convert_url_to_k8s_value(url):
     # The ror is a URL, parse it
+    if not url:
+        return None
     parsed = urlparse(url)
-
-    return f'{parsed.hostname}{parsed.path.replace("/", "_")}'
+    # Ensure hostname exists; combine hostname and path, replacing slashes with underscores
+    hostname = parsed.hostname or ""
+    path = parsed.path.replace("/", "_") if parsed.path else ""
+    value = f"{hostname}{path}"
+    return value if value else None
 
 
 def main():
@@ -47,18 +52,40 @@ def main():
                 print(f"Node {node.metadata.name} not found in the csv file")
             continue
 
+        # Compute desired label values from CSV (prefer OSG Value for OSG label, fallback to ROR)
+        csv_row = node_institution[node.metadata.name]
+        osg_val_raw = (csv_row.get('OSG Value') or "").strip()
+        ror_val_raw = (csv_row.get('ROR Value') or "").strip()
+
+        desired_osg = convert_url_to_k8s_value(osg_val_raw) if osg_val_raw else (convert_url_to_k8s_value(ror_val_raw) if ror_val_raw else None)
+        desired_ror = convert_url_to_k8s_value(ror_val_raw) if ror_val_raw else None
+
+        # Current labels on the node
+        current_labels = node.metadata.labels or {}
+        current_osg = current_labels.get("nautilus.io/OSGInstitutionID")
+        current_ror = current_labels.get("nautilus.io/RORInstitutionID")
+
+        labels_to_patch = {}
+
+        # Only set OSG label if desired value exists and differs from current
+        if desired_osg is not None and desired_osg != current_osg:
+            labels_to_patch["nautilus.io/OSGInstitutionID"] = desired_osg
+
+        # Only set ROR label if desired value exists and differs from current
+        if desired_ror is not None and desired_ror != current_ror:
+            labels_to_patch["nautilus.io/RORInstitutionID"] = desired_ror
+
+        if not labels_to_patch:
+            print(f"Node {node.metadata.name}: labels are up-to-date, skipping patch")
+            continue
+
         body = {
             "metadata": {
-                "labels": {
-                    "OSGInstitutionID": None,
-                    "RORInstitutionID": None,
-                    "nautilus.io/OSGInstitutionID": convert_url_to_k8s_value(node_institution[node.metadata.name]['OSG Value']) if node_institution[node.metadata.name]['OSG Value'] else convert_url_to_k8s_value(node_institution[node.metadata.name]['ROR Value']),
-                    "nautilus.io/RORInstitutionID": convert_url_to_k8s_value(node_institution[node.metadata.name]['ROR Value']),
-                }
+                "labels": labels_to_patch
             }
         }
-        #print(f"{node.metadata.name}\t{body}")
-        print(f"Patching node {node.metadata.name}")
+
+        print(f"Patching node {node.metadata.name} with {labels_to_patch}")
         v1.patch_node(node.metadata.name, body)
 
         #api_response = api_instance.patch_node(node.metadata.name, body)
