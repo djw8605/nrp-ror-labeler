@@ -7,5 +7,6 @@ table of nodes and their ROR IDs.  It also adds a special attribute for the OSG 
 
 ## Attributes
 
-- `nautilus.io/OSGInstitutionID`: The ROR ID of the institution.
+- `nautilus.io/RORInstitutionID`: The ROR ID of the institution.
 - `nautilus.io/OSGInstitutionID`: The OSG ID of the institution (derived from ROR value).
+- `nautilus.io/Institution`: The institution name, sanitized for Kubernetes label-value rules.

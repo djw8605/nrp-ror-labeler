@@ -1,4 +1,4 @@
-﻿OSG Identifier,Institution Name,ROR Value,OSG Value
+OSG Identifier,Institution Name,ROR Value,OSG Value
 fiona-prg1.cesnet.cz,Czech Education and Scientific Network,https://ror.org/050dkka69,https://osg-htc.org/iid/z482p6c1t7x2
 nrp-s1.acsu.buffalo.edu,"University at Buffalo, State University of New York",https://ror.org/01y64my43,https://osg-htc.org/iid/1cze98vy4hfm
 epic001.clemson.edu,Clemson University,https://ror.org/037s24f05,https://osg-htc.org/iid/ricyf18amt49
@@ -153,7 +153,7 @@ gpn-cisco1-nautilus.greatplains.net,Great Plains Network,https://ror.org/02g2frf
 gpn-cisco2-nautilus.greatplains.net,Great Plains Network,https://ror.org/02g2frf98,https://osg-htc.org/iid/ssmtibyuojo6
 dtn-gpu2.kreonet.net,Korea Institute of Science & Technology Information,https://ror.org/01k4yrm29,https://osg-htc.org/iid/0899w228yttv
 dtn2-daejeon.kreonet.net,Korea Institute of Science & Technology Information,https://ror.org/01k4yrm29,https://osg-htc.org/iid/0899w228yttv
-nrp0.njedge.net,,,
+nrp0.njedge.net,,,https://osg-htc.org/iid/zazdaui12zv6
 ceph-1.gpn.onenet.net,Great Plains Network,https://ror.org/02g2frf98,https://osg-htc.org/iid/ssmtibyuojo6
 swosu-brandy.offn.onenet.net,Southwestern Oklahoma State University,https://ror.org/01y8xtk20,https://osg-htc.org/iid/xpoj97mgs7iu
 aarch64.calit2.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
@@ -514,8 +514,8 @@ pas.tole2.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.
 pas.wash.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
 ps-crispie-mgmt.montclair.edu,Montclair State University,https://ror.org/01nxc2t48,https://osg-htc.org/iid/suf1yy5u3y56
 sl-um-es3.slateci.io,University of Michigan–Ann Arbor,https://ror.org/00jmfr291,https://osg-htc.org/iid/4ocf9kvq30fn
-edge-perfsonar.crispie.njedge.net,,,
-dtn-crispie.njedge.net,,,
+edge-perfsonar.crispie.njedge.net,,,https://osg-htc.org/iid/zazdaui12zv6
+dtn-crispie.njedge.net,,,https://osg-htc.org/iid/zazdaui12zv6
 brookdale-perfsonar.crispie.brookdale.edu,Brookdale Community College,https://ror.org/05mrhv083,https://osg-htc.org/iid/t9o140gv13fb
 chi-dgx-node01.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
 chi-dgx-node02.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
@@ -580,4 +580,21 @@ nrp-s63-25.sdsc.optiputer.net,"University of California, San Diego",https://ror.
 nrp-s63-27.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 emporia.gp-argo.greatplains.net,Emporia State University,https://ror.org/04e6r1478,https://osg-htc.org/iid/tc4efq30t948
 hpc-nrp-g1.nmsu.edu,New Mexico State University,https://ror.org/00hpz7z43,https://osg-htc.org/iid/zoe98r1f2ztc
+bak-hpc2.csub.edu,"California State University, Bakersfield",https://ror.org/019ts0j55,https://osg-htc.org/iid/qv33r3gqr9ld
 pas.macc.net.internet2.edu,Internet2,https://ror.org/010bpe446,https://osg-htc.org/iid/rdbgla0ef33b
+bak-hpc1.csub.edu,"California State University, Bakersfield",https://ror.org/019ts0j55,https://osg-htc.org/iid/qv33r3gqr9ld
+365dc-ps.sox.net,,,
+admiralty-ncmir-mm-expanse-7d43bc97a0,,,
+bw6600-01.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
+bw6600-02.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
+dtn.365dc.sox.net,,,
+hd200-01.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
+k8s-a100-01.suncorridor.org,,,
+losa4-nrp-03.cenic.net,,,
+proc-01.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
+proc-02.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
+sidco-ps.sox.net,,,
+snvl2-nrp-03.cenic.net,,,
+storage-01.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
+storage-02.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
+storage-03.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
