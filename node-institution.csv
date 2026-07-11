@@ -592,7 +592,6 @@ vendor-device-42.truman.edu,Truman State University,https://ror.org/0396bvs97,ht
 admiralty-ncmir-mm-expanse-7d43bc97a0,,,
 bw6600-01.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
 bw6600-02.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
-dtn.365dc.sox.net,,,
 hd200-01.ts.fresnostate.edu,"California State University, Fresno",https://ror.org/03enmdz06,https://osg-htc.org/iid/yjoil34g24pn
 k8s-a100-01.suncorridor.org,,,
 losa4-nrp-03.cenic.net,,,
@@ -611,3 +610,5 @@ nautilus-it-gpu07.fullerton.edu,"California State University, Fullerton",https:/
 nautilus-it-gpu08.fullerton.edu,"California State University, Fullerton",https://ror.org/02avqqw26,https://osg-htc.org/iid/md8sgbxite4u
 k8s-stratix-10-02.sdsc.optiputer.net,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 admiralty-mfsada-vm,,,
+dtn-01.usra.edu,Universities Space Research Association,https://ror.org/043pgqy52,https://osg-htc.org/iid/uihoa1fde2dg
+dtn-02.usra.edu,Universities Space Research Association,https://ror.org/043pgqy52,https://osg-htc.org/iid/uihoa1fde2dg
