@@ -521,7 +521,7 @@ chi-dgx-node01.csuchico.edu,"California State University, Chico",https://ror.org
 chi-dgx-node02.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
 chi-dgx-node03.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
 chi-dgx-node04.csuchico.edu,"California State University, Chico",https://ror.org/027bzz146,https://osg-htc.org/iid/byvwrmby4l7e
-dtn-sp.testbeds.rnp.br,National Education and Research Network,https://ror.org/04hztxs45,
+dtn-sp.testbeds.rnp.br,National Education and Research Network,https://ror.org/04hztxs45,NEEDS_MANUAL_ENTRY
 nrp-00.rcac.purdue.edu,Purdue University West Lafayette,https://ror.org/02dqehb95,https://osg-htc.org/iid/y2m2tk3a8pp6
 nrp-01.laccd.edu,Los Angeles Community College District,https://ror.org/058aed112,https://osg-htc.org/iid/isgjznc0xoa8
 nrp-01.rcac.purdue.edu,Purdue University West Lafayette,https://ror.org/02dqehb95,https://osg-htc.org/iid/y2m2tk3a8pp6
@@ -541,9 +541,9 @@ prp-gpu-2.t2.ucsd.edu,"University of California, San Diego",https://ror.org/0168
 prp-gpu-3.t2.ucsd.edu,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 starlightdtn108.scidmz.northwestern.edu,Northwestern University,https://ror.org/000e0be47,https://osg-htc.org/iid/5vvknn2bzgvt
 stratus1.nrp-espm.berkeley.edu,"University of California, Berkeley",https://ror.org/01an7q238,https://osg-htc.org/iid/7rhak0ujmsoe
-uspnrp01.hpc.usp.br,National Education and Research Network,https://ror.org/04hztxs45,
-uspnrp02.hpc.usp.br,National Education and Research Network,https://ror.org/04hztxs45,
-uspnrp03.hpc.usp.br,National Education and Research Network,https://ror.org/04hztxs45,
+uspnrp01.hpc.usp.br,Universidade de São Paulo,https://ror.org/036rp1748,https://osg-htc.org/iid/sg0dasyc8rbp
+uspnrp02.hpc.usp.br,Universidade de São Paulo,https://ror.org/036rp1748,https://osg-htc.org/iid/sg0dasyc8rbp
+uspnrp03.hpc.usp.br,Universidade de São Paulo,https://ror.org/036rp1748,https://osg-htc.org/iid/sg0dasyc8rbp
 r640-01.sc25.nrp-nautilus.io,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 r640-02.sc25.nrp-nautilus.io,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
 r640-04.sc25.nrp-nautilus.io,"University of California, San Diego",https://ror.org/0168r3w48,https://osg-htc.org/iid/06wup3aye2t7
